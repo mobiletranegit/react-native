@@ -42,7 +42,7 @@
   "_resolved": "https://registry.npmjs.org/react-native/-/react-native-0.55.3.tgz",
   "_shasum": "6ff1691bd0645d0480fba16377edb9dce5bd28c4",
   "_spec": "react-native@0.55.3",
-  "_where": "/Users/cccfvg/projects/MobileServiceTool",
+  "_where": "/Users/irhppe/dev/react/MobileServiceTool",
   "bin": {
     "react-native": "local-cli/wrong-react-native.js"
   },
